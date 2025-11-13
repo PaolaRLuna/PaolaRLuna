@@ -1,8 +1,8 @@
 # Paola Reyes Luna
 ## Expérience en programmation
-- LISP
-- VBA
-- Python
+- Java
+- Selenium/Cucumber
+- API Testing
 - Méthode Agile
 
 ## Intérêts
